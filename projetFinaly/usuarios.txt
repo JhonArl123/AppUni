@@ -1,0 +1,20 @@
+Correo: ral241916@uvg.edu.gt
+Carrera: informatica
+Semestre: segundo
+Contraseña: 12345juan
+-----------------------------
+Correo: ralios@gmail.com
+Carrera: informatica
+Semestre: segundo
+Contraseña: 12345juan
+-----------------------------
+Correo: ralios@gmail.com
+Carrera: sistemas
+Semestre: segundo
+Contraseña: 12345juan
+-----------------------------
+Correo: juan@gmail.com
+Carrera: sistemas
+Semestre: segundo
+Contraseña: 12345juan
+-----------------------------
